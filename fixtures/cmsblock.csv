@@ -1,0 +1,2 @@
+block_identifier,type_code,theme_path,title,page_group,group_data
+home-page-block,cms_static_block,"frontend/MagentoEse/brentmill","Home Page",pages,"a:2:{s:5:""block"";s:7:""content"";s:13:""layout_handle"";s:15:""cms_index_index"";}"
