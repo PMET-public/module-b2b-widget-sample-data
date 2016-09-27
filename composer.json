@@ -1,5 +1,5 @@
 {
-    "name": "magento/module-b2b-widget-sample-data",
+    "name": "magentoese/module-b2b-widget-sample-data",
     "type": "magento2-module",
     "version": "0.0.1",
     "autoload": {
